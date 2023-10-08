@@ -1,0 +1,4 @@
+Player character sprites- https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character?download
+Ground + (possibly) background sprites- Flappy bird on moodle that i don't have access to
+
+Movement code- https://github.com/naoisecollins/GD2a-PlayerController/commit/e8819491746cf557a3a208174bfe8ddc39062a84#diff-6559439996a27afac6044cabe35d54d1d69bed7fc62874eb3d86bfaf3370d1a3

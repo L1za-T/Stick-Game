@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 56ed5606ee3dd154699ddf005291b301
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4442097461428738223
+    second: jwrygytl_0
+  - first:
+      213: -2964613107644681935
+    second: jwrygytl_1
+  - first:
+      213: -9042396200714023071
+    second: jwrygytl_2
+  - first:
+      213: -5689447889538182973
+    second: jwrygytl_3
+  - first:
+      213: 5379869740554568033
+    second: jwrygytl_4
+  - first:
+      213: 2053629226052891853
+    second: jwrygytl_5
+  - first:
+      213: -5417927804419883505
+    second: jwrygytl_6
+  - first:
+      213: 8256658616790157070
+    second: jwrygytl_7
+  - first:
+      213: 3174809144736994766
+    second: jwrygytl_8
+  - first:
+      213: 8817824091483794062
+    second: jwrygytl_9
+  - first:
+      213: -2194099328298582816
+    second: jwrygytl_10
+  - first:
+      213: 8874503212697147131
+    second: jwrygytl_11
+  - first:
+      213: 283409114948745261
+    second: jwrygytl_12
+  - first:
+      213: 5013435340728530138
+    second: jwrygytl_13
+  - first:
+      213: 7686911030805008880
+    second: jwrygytl_14
+  - first:
+      213: -5068160072547040207
+    second: jwrygytl_15
+  - first:
+      213: 1102610623237668711
+    second: jwrygytl_16
+  - first:
+      213: -8420848096827842607
+    second: jwrygytl_17
+  - first:
+      213: -3340769343233996646
+    second: jwrygytl_18
+  - first:
+      213: 3541962068855851444
+    second: jwrygytl_19
+  - first:
+      213: 4986895393626979615
+    second: jwrygytl_20
+  - first:
+      213: -1347325460087417235
+    second: jwrygytl_21
+  - first:
+      213: -8833489782281462353
+    second: jwrygytl_22
+  - first:
+      213: 2051057605863601766
+    second: jwrygytl_23
+  - first:
+      213: 9059764840699758678
+    second: jwrygytl_24
+  - first:
+      213: 2812760470397447985
+    second: jwrygytl_25
+  - first:
+      213: -3164216364793767558
+    second: jwrygytl_26
+  - first:
+      213: 25448158139145436
+    second: jwrygytl_27
+  - first:
+      213: -8537472909560422439
+    second: jwrygytl_28
+  - first:
+      213: 8820121797416521078
+    second: jwrygytl_29
+  - first:
+      213: 7514449454021483815
+    second: jwrygytl_30
+  - first:
+      213: 7418697817164168508
+    second: jwrygytl_31
+  - first:
+      213: 1191878400398584841
+    second: jwrygytl_32
+  - first:
+      213: -4552248132268444585
+    second: jwrygytl_33
+  - first:
+      213: -7529821622345737690
+    second: jwrygytl_34
+  - first:
+      213: -4286516712968081345
+    second: jwrygytl_35
+  - first:
+      213: -8153805083889281595
+    second: jwrygytl_36
+  - first:
+      213: -4549284660126051055
+    second: jwrygytl_37
+  - first:
+      213: 6915368260486584915
+    second: jwrygytl_38
+  - first:
+      213: -3973608974723889199
+    second: jwrygytl_39
+  - first:
+      213: 8865340720319956891
+    second: jwrygytl_40
+  - first:
+      213: -2618823635601934773
+    second: jwrygytl_41
+  - first:
+      213: 8224048311060709587
+    second: jwrygytl_42
+  - first:
+      213: 815832997521233744
+    second: jwrygytl_43
+  - first:
+      213: -3152104335580032745
+    second: jwrygytl_44
+  - first:
+      213: -4840052622566378140
+    second: jwrygytl_45
+  - first:
+      213: -675603217340576763
+    second: jwrygytl_46
+  - first:
+      213: -1173507269474564525
+    second: jwrygytl_47
+  - first:
+      213: -2627017116318450888
+    second: jwrygytl_48
+  - first:
+      213: -3425210812445799424
+    second: jwrygytl_49
+  - first:
+      213: -3619942139449256522
+    second: jwrygytl_50
+  - first:
+      213: -6407933693696309080
+    second: jwrygytl_51
+  - first:
+      213: -8862666573439383771
+    second: jwrygytl_52
+  - first:
+      213: 7652047444926526655
+    second: jwrygytl_53
+  - first:
+      213: -3983345716303480806
+    second: jwrygytl_54
+  - first:
+      213: -4073830039771183119
+    second: jwrygytl_55
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jwrygytl_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 146
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8df1e1b1085ad30800000000000000
+      internalID: 4442097461428738223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 96
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1313f56f5149bd6d0800000000000000
+      internalID: -2964613107644681935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 96
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f491a6094f28280800000000000000
+      internalID: -9042396200714023071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 193
+        width: 170
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c01bf7d9450b01b0800000000000000
+      internalID: -5689447889538182973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 200
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161c0a7760329aa40800000000000000
+      internalID: 5379869740554568033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 204
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc43e3786e4ff7c10800000000000000
+      internalID: 2053629226052891853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 167
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e37d60e57afc4b0800000000000000
+      internalID: -5417927804419883505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 163
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07027d244b859270800000000000000
+      internalID: 8256658616790157070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 190
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d5b5a8103f0c20800000000000000
+      internalID: 3174809144736994766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 159
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ae5c8da443f5a70800000000000000
+      internalID: 8817824091483794062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 161
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf6d6294efc81e0800000000000000
+      internalID: -2194099328298582816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 174
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf650ee17a1982b70800000000000000
+      internalID: 8874503212697147131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 167
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28b0a6a61fdee300800000000000000
+      internalID: 283409114948745261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 174
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4738c41ec439540800000000000000
+      internalID: 5013435340728530138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 135
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f11a230bd46daa60800000000000000
+      internalID: 7686911030805008880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 147
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134040b24474aa9b0800000000000000
+      internalID: -5068160072547040207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 143
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f37ab15824d4f00800000000000000
+      internalID: 1102610623237668711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 144
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df5d018543232b80800000000000000
+      internalID: -8420848096827842607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 151
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98c5048bf333a1d0800000000000000
+      internalID: -3340769343233996646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 139
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b98f0a4cb3972130800000000000000
+      internalID: 3541962068855851444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 151
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dfa2550f2053540800000000000000
+      internalID: 4986895393626979615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 151
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6656aae1a65d4de0800000000000000
+      internalID: -1347325460087417235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 126
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad121848d3296580800000000000000
+      internalID: -8833489782281462353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 135
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666fc5b8602d67c10800000000000000
+      internalID: 2051057605863601766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_24
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 123
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6588b763f10cabd70800000000000000
+      internalID: 9059764840699758678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 116
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fec44cebee80720800000000000000
+      internalID: 2812760470397447985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 107
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a795dff1bf17614d0800000000000000
+      internalID: -3164216364793767558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 91
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc521a07f86a5000800000000000000
+      internalID: 25448158139145436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 91
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df512a4f9dc48980800000000000000
+      internalID: -8537472909560422439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 93
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d01b23b0e576a70800000000000000
+      internalID: 8820121797416521078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 93
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d149517ffa84860800000000000000
+      internalID: 7514449454021483815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 93
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d3908db5284f660800000000000000
+      internalID: 7418697817164168508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_32
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 93
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ce73f17176a8010800000000000000
+      internalID: 1191878400398584841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_33
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 107
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75434ba417a23d0c0800000000000000
+      internalID: -4552248132268444585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_34
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ad6021123b08790800000000000000
+      internalID: -7529821622345737690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 65
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3033cfa2cb3384c0800000000000000
+      internalID: -4286516712968081345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 65
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c551071a7dd7de80800000000000000
+      internalID: -8153805083889281595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 71
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1159d0b64b1bdd0c0800000000000000
+      internalID: -4549284660126051055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 72
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a50513bc258ff50800000000000000
+      internalID: 6915368260486584915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d74749c0b7ead8c0800000000000000
+      internalID: -3973608974723889199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b970a7f1a64080b70800000000000000
+      internalID: 8865340720319956891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46bc8e47c118abd0800000000000000
+      internalID: -2618823635601934773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 68
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0cc64bd50b12270800000000000000
+      internalID: 8224048311060709587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0579b4de9cb625b00800000000000000
+      internalID: 815832997521233744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71198ceaec97144d0800000000000000
+      internalID: -3152104335580032745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465bbb198cda4dcb0800000000000000
+      internalID: -4840052622566378140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ccd4d0476cf96f0800000000000000
+      internalID: -675603217340576763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_47
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 69
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35641ad1b5dd6bfe0800000000000000
+      internalID: -1173507269474564525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 69
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bb7fae9d5fa8bd0800000000000000
+      internalID: -2627017116318450888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 69
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c4753e9e43770d0800000000000000
+      internalID: -3425210812445799424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_50
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 69
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d8aeadc163cdc0800000000000000
+      internalID: -3619942139449256522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 35
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a889fa91427217a0800000000000000
+      internalID: -6407933693696309080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 7
+        width: 115
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527ca6735bb710580800000000000000
+      internalID: -8862666573439383771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_53
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 60
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4f74fdb98813a60800000000000000
+      internalID: 7652047444926526655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_54
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 34
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18382afc2058b8c0800000000000000
+      internalID: -3983345716303480806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jwrygytl_55
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 8
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f78f14b929d677c0800000000000000
+      internalID: -4073830039771183119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
