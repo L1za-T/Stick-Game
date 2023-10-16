@@ -48,7 +48,7 @@ public class PlayerMovement : MonoBehaviour
         
         if(horizontalInput !=0 && grounded)
         {
-            PlaySound(footstepSound);
+            AudioManager.instance.PlayFootstepSound();
         }
 
 
@@ -101,4 +101,6 @@ public class PlayerMovement : MonoBehaviour
         audioSource.clip = clip;
         audioSource.Play();
     }
+
+    
 }
