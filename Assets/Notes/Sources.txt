@@ -6,3 +6,7 @@ Background cloud sprites- https://latenightcoffe.itch.io/2d-pixel-art-semi-reali
 
 Movement code- https://github.com/naoisecollins/GD2a-PlayerController/commit/e8819491746cf557a3a208174bfe8ddc39062a84#diff-6559439996a27afac6044cabe35d54d1d69bed7fc62874eb3d86bfaf3370d1a3
 Audio controller- https://github.com/naoisecollins/2023GD2a-PlayerController/blob/main/Assets/Scripts/AudioManager.cs
+Camera shake-  https://www.youtube.com/watch?v=luSVUPU6bK0
+Menu- https://www.youtube.com/watch?v=-GWjA6dixV4
+
+menu background music- https://www.youtube.com/watch?v=t0nxKPBiceo
