@@ -2,29 +2,26 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-
 [RequireComponent(typeof(AudioSource))]
 public class PlayerMovement : MonoBehaviour
 {
     public float speed = 10f;
     public float jumpHeight = 7f; 
-    //public float dashSpeed = 20f;
-    public float crouchHeight = 0.5f;
     public LayerMask whatIsGround; 
     public Transform groundCheckPoint; 
-    public float groundCheckRadius = 0.01f;
+    public float groundCheckRadius = 0.2f;
 
     public AudioClip jumpSound; 
-    //public AudioClip dashSound; 
     public AudioClip footstepSound; 
 
+    // [SerializeField] private int attackDamage = 1;
+    // [SerializeField] private float attackRange = 1f;
+    public LayerMask enemyLayers; 
+
     private Rigidbody2D body; 
-    [SerializeField] private Animator animator; 
-    private AudioSource audioSource; 
+    private Animator animator; 
+    private AudioSource audioPlayer; 
     public bool grounded; 
-    public bool canDoubleJump = false;
-    //private bool isDashing = false; 
-    private bool isCrouching = false;
     private bool facingRight = true; 
 
 
@@ -34,56 +31,39 @@ public class PlayerMovement : MonoBehaviour
     {
         body = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        audioSource = GetComponent<AudioSource>();
+        audioPlayer = GetComponent<AudioSource>();
     }
+
 
     // Update is called once per frame
     void FixedUpdate()
     {
         grounded = Physics2D.OverlapCircle(groundCheckPoint.position, groundCheckRadius, whatIsGround);
-        Debug.Log(grounded);
-
+        
         float horizontalInput = Input.GetAxisRaw("Horizontal");
         body.velocity = new Vector2(horizontalInput*speed, body.velocity.y);
-        animator.SetBool("walk", horizontalInput != 0);
-        
-        Debug.Log(horizontalInput);
-        if(horizontalInput !=0 && grounded)
-        {
-            //AudioManager.instance.PlayFootstepSound();
-        }
+        animator.SetBool("walk", horizontalInput !=0);
+        animator.SetBool("Grounded", grounded);
 
+        // if(horizontalInput != 0 && grounded)
+        // {
+        //     PlaySound(footstepSound);
+        // }
 
-        if(Input.GetKeyDown(KeyCode.Space)&& grounded)
+        if(Input.GetKeyDown(KeyCode.W)&& grounded)
         {
-            canDoubleJump = true; 
             Jump();
-             
-        }
-        else if(Input.GetKeyDown(KeyCode.Space)&&canDoubleJump)
-        {
-            canDoubleJump = false;
-            Jump();
-            
         }
 
         if((horizontalInput>0&& !facingRight)||(horizontalInput<0&&facingRight))
         {
             Flip();
-            Debug.Log("Flip");
         }
-        if (Input.GetKeyDown(KeyCode.DownArrow)&& grounded)
-        {
-            if(!isCrouching){
-                transform.localScale = new Vector3(transform.localScale.x, crouchHeight, transform.localScale.z);
-                isCrouching = true;
-            }
-             else if (isCrouching)
-        {
-            transform.localScale = new Vector3(transform.localScale.x,1f,transform.localScale.z);
-            isCrouching = false; 
-        }
-        }
+
+        // if(Input.GetKeyDown(KeyCode.E))
+        // {
+        //     Attack();
+        // }
 
         
     }
@@ -95,16 +75,31 @@ public class PlayerMovement : MonoBehaviour
     }
     private void Jump(){
         body.velocity = new Vector2(body.velocity.x, jumpHeight);
-        //animator.SetTrigger("jump");
-        //grounded = false;
+        animator.SetTrigger("Jump");
         PlaySound(jumpSound);
     }
 
     private void PlaySound(AudioClip clip)
     {
-        audioSource.clip = clip;
-        audioSource.Play();
+        audioPlayer.clip = clip; 
+        audioPlayer.Play();
     }
+    // void Attack()
+    // {
+    //     Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(transform.position, attackRange, enemyLayers);
+    //     foreach(Collider2D enemy in hitEnemies)
+    //     {
+    //         EnemyController enemyController = enemy.GetComponent<EnemyController>();
+    //         if(enemyController !=null)
+    //         {
+    //             enemyController.TakeDamage(attackDamage);
+    //             Debug.Log("Enemy Damaged");
 
-    
+    //         }
+    //     }
+    // }
+    // void OnDrawGizmosSelected() {
+    // Gizmos.color = Color.red; 
+    // Gizmos.DrawWireSphere(transform.position,attackRange);    
+    // }
 }
