@@ -1,4 +1,6 @@
 Player character sprites- https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character?download
-Ground + (possibly) background sprites- Flappy bird on moodle that i don't have access to
+Ground + (possibly) background sprites- Flappy bird https://2324-moodle.dkit.ie/mod/resource/view.php?id=315814
+Castle objective image- https://www.pngkey.com/detail/u2q8a9w7t4u2r5u2_mario-bros-castle-png/
+Princess Peach sprites- https://www.spriters-resource.com/game_boy_advance/mlss/sheet/7551/
 
 Movement code- https://github.com/naoisecollins/GD2a-PlayerController/commit/e8819491746cf557a3a208174bfe8ddc39062a84#diff-6559439996a27afac6044cabe35d54d1d69bed7fc62874eb3d86bfaf3370d1a3

@@ -19,7 +19,7 @@ public class PlayerMovement : MonoBehaviour
     public AudioClip footstepSound; 
 
     private Rigidbody2D body; 
-    private Animator animator; 
+    [SerializeField] private Animator animator; 
     private AudioSource audioSource; 
     public bool grounded; 
     public bool canDoubleJump = false;
@@ -41,14 +41,16 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         grounded = Physics2D.OverlapCircle(groundCheckPoint.position, groundCheckRadius, whatIsGround);
-        
+        Debug.Log(grounded);
+
         float horizontalInput = Input.GetAxisRaw("Horizontal");
         body.velocity = new Vector2(horizontalInput*speed, body.velocity.y);
-        animator.SetBool("walk", horizontalInput !=0);
+        animator.SetBool("walk", horizontalInput != 0);
         
+        Debug.Log(horizontalInput);
         if(horizontalInput !=0 && grounded)
         {
-            AudioManager.instance.PlayFootstepSound();
+            //AudioManager.instance.PlayFootstepSound();
         }
 
 
@@ -60,13 +62,15 @@ public class PlayerMovement : MonoBehaviour
         }
         else if(Input.GetKeyDown(KeyCode.Space)&&canDoubleJump)
         {
-            Jump();
             canDoubleJump = false;
+            Jump();
+            
         }
 
         if((horizontalInput>0&& !facingRight)||(horizontalInput<0&&facingRight))
         {
             Flip();
+            Debug.Log("Flip");
         }
         if (Input.GetKeyDown(KeyCode.DownArrow)&& grounded)
         {
@@ -91,8 +95,8 @@ public class PlayerMovement : MonoBehaviour
     }
     private void Jump(){
         body.velocity = new Vector2(body.velocity.x, jumpHeight);
-        animator.SetTrigger("jump");
-        grounded = false;
+        //animator.SetTrigger("jump");
+        //grounded = false;
         PlaySound(jumpSound);
     }
 
