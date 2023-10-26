@@ -16,6 +16,7 @@ public class PlayerMovement : MonoBehaviour
 
     // [SerializeField] private int attackDamage = 1;
     // [SerializeField] private float attackRange = 1f;
+    public Transform attackPoint;
     public LayerMask enemyLayers; 
 
     private Rigidbody2D body; 
@@ -45,10 +46,10 @@ public class PlayerMovement : MonoBehaviour
         animator.SetBool("walk", horizontalInput !=0);
         animator.SetBool("Grounded", grounded);
 
-        // if(horizontalInput != 0 && grounded)
-        // {
-        //     PlaySound(footstepSound);
-        // }
+        if(horizontalInput != 0 && grounded)
+        {
+            PlaySound(footstepSound);
+        }
 
         if(Input.GetKeyDown(KeyCode.W)&& grounded)
         {
