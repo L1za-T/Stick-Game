@@ -1,6 +1,8 @@
 # Stick-Game
 Called such because it was meant to be stick figure styled before i found the cool knight sprites
 
+link to presentation video- https://youtu.be/Bj_s1p1Xdxk
+
 Sources:
 Player character sprites- https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character?download
 Ground + (possibly) background sprites- Flappy bird https://2324-moodle.dkit.ie/mod/resource/view.php?id=315814
