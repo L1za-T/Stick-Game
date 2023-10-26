@@ -60,10 +60,10 @@ public class PlayerMovement : MonoBehaviour
             Flip();
         }
 
-        // if(Input.GetKeyDown(KeyCode.E))
-        // {
-        //     Attack();
-        // }
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            Attack();
+        }
 
         
     }
@@ -84,20 +84,21 @@ public class PlayerMovement : MonoBehaviour
         audioPlayer.clip = clip; 
         audioPlayer.Play();
     }
-    // void Attack()
-    // {
-    //     Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(transform.position, attackRange, enemyLayers);
-    //     foreach(Collider2D enemy in hitEnemies)
-    //     {
-    //         EnemyController enemyController = enemy.GetComponent<EnemyController>();
-    //         if(enemyController !=null)
-    //         {
-    //             enemyController.TakeDamage(attackDamage);
-    //             Debug.Log("Enemy Damaged");
+    void Attack()
+    {
+        animator.SetTrigger("Attack");
+        // Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(transform.position, attackRange, enemyLayers);
+        // foreach(Collider2D enemy in hitEnemies)
+        // {
+        //     EnemyController enemyController = enemy.GetComponent<EnemyController>();
+        //     if(enemyController !=null)
+        //     {
+        //         enemyController.TakeDamage(attackDamage);
+        //         Debug.Log("Enemy Damaged");
 
-    //         }
-    //     }
-    // }
+        //     }
+        // }
+    }
     // void OnDrawGizmosSelected() {
     // Gizmos.color = Color.red; 
     // Gizmos.DrawWireSphere(transform.position,attackRange);    
